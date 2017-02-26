@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 27fe784c60802a44aa9ed34b8d61d356
+timeCreated: 1478915435
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sofaBase1
+    100004: sofaBase2
+    100006: sofaCushion
+    100008: sofaCushion1
+    100010: sofaCushion2
+    100012: sofaCushion3
+    100014: sofaCushion4
+    100016: sofaCushion5
+    100018: sofaLeg
+    100020: sofaLeg1
+    100022: sofaLeg2
+    100024: sofaLeg3
+    100026: sofaPillow
+    100028: sofaPillow3
+    100030: sofaPillow4
+    100032: sofaPillow5
+    100034: sofaPillow6
+    100036: sofaPillow7
+    100038: sofaBlanket
+    400000: //RootNode
+    400002: sofaBase1
+    400004: sofaBase2
+    400006: sofaCushion
+    400008: sofaCushion1
+    400010: sofaCushion2
+    400012: sofaCushion3
+    400014: sofaCushion4
+    400016: sofaCushion5
+    400018: sofaLeg
+    400020: sofaLeg1
+    400022: sofaLeg2
+    400024: sofaLeg3
+    400026: sofaPillow
+    400028: sofaPillow3
+    400030: sofaPillow4
+    400032: sofaPillow5
+    400034: sofaPillow6
+    400036: sofaPillow7
+    400038: sofaBlanket
+    2300000: sofaBase1
+    2300002: sofaBase2
+    2300004: sofaCushion
+    2300006: sofaCushion1
+    2300008: sofaCushion2
+    2300010: sofaCushion3
+    2300012: sofaCushion4
+    2300014: sofaCushion5
+    2300016: sofaLeg
+    2300018: sofaLeg1
+    2300020: sofaLeg2
+    2300022: sofaLeg3
+    2300024: sofaPillow
+    2300026: sofaPillow3
+    2300028: sofaPillow4
+    2300030: sofaPillow5
+    2300032: sofaPillow6
+    2300034: sofaPillow7
+    2300036: sofaBlanket
+    3300000: sofaBase1
+    3300002: sofaBase2
+    3300004: sofaCushion
+    3300006: sofaCushion1
+    3300008: sofaCushion2
+    3300010: sofaCushion3
+    3300012: sofaCushion4
+    3300014: sofaCushion5
+    3300016: sofaLeg
+    3300018: sofaLeg1
+    3300020: sofaLeg2
+    3300022: sofaLeg3
+    3300024: sofaPillow
+    3300026: sofaPillow3
+    3300028: sofaPillow4
+    3300030: sofaPillow5
+    3300032: sofaPillow6
+    3300034: sofaPillow7
+    3300036: sofaBlanket
+    4300000: sofaCushion
+    4300002: sofaCushion1
+    4300004: sofaCushion2
+    4300006: sofaPillow4
+    4300008: sofaCushion3
+    4300010: sofaCushion4
+    4300012: sofaCushion5
+    4300014: sofaPillow
+    4300016: sofaPillow3
+    4300018: sofaPillow5
+    4300020: sofaPillow6
+    4300022: sofaPillow7
+    4300024: sofaBase1
+    4300026: sofaLeg3
+    4300028: sofaLeg2
+    4300030: sofaBase2
+    4300032: sofaLeg
+    4300034: sofaLeg1
+    4300036: sofaBlanket
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

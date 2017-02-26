@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryMode_v02.CSharp.Plugins", "StoryMode_v02.CSharp.Plugins.csproj", "{9F00ED4A-25D2-A04E-BF15-4EB7620D6485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoryMode_v02.CSharp.Editor", "StoryMode_v02.CSharp.Editor.csproj", "{C036CF50-DFAD-424B-095F-170B2B086E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F00ED4A-25D2-A04E-BF15-4EB7620D6485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F00ED4A-25D2-A04E-BF15-4EB7620D6485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F00ED4A-25D2-A04E-BF15-4EB7620D6485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F00ED4A-25D2-A04E-BF15-4EB7620D6485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C036CF50-DFAD-424B-095F-170B2B086E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C036CF50-DFAD-424B-095F-170B2B086E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C036CF50-DFAD-424B-095F-170B2B086E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C036CF50-DFAD-424B-095F-170B2B086E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

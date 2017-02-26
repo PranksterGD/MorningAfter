@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/ssuresh/dev/Students/CH13/ssuresh/Semester 1/Unity Practice/Otome/Assets/Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1
